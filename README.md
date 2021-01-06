@@ -11,3 +11,7 @@ Gen 1:
 Gen 3:
 
 ![Version 3 of Stickies](./stickiesGen3.png)
+
+Gen 4:
+
+![Version 4 of Stickies](./stickiesGen4.png)
